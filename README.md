@@ -1,6 +1,7 @@
 # gaussian-processes
 This project worked with Gaussian processes using an RBF kernel and a polynomial kernel with degree 1 (i.e., linear).
-This was an assignment from my graduate level machine learning class.
+
+Check out this [link](https://www.cs.cornell.edu/courses/cs4780/2018fa/lectures/lecturenote15.html) to learn more about gaussian processes!
 
 ## Results
 ### Visualizing performance on the 1D dataset
