@@ -5,6 +5,7 @@ This was an assignment from my graduate level machine learning class.
 ## Results
 ### Visualizing performance on the 1D dataset
 For this part, I had a given function to be learned, and I used both linear and RBF kernels to do so. Below are the plots of the learned function vs the real function.
+
 <img src="https://github.com/bjmcshane/gaussian-processes/blob/main/images/1D_linear.png?raw=true" alt="drawing" width="350"/>
 <img src="https://github.com/bjmcshane/gaussian-processes/blob/main/images/1D_rbf.png?raw=true" alt="drawing" width="350"/>
 
@@ -25,5 +26,6 @@ I had to run both linear and rbf kernels on all 4 given datasets, and record/plo
 
 ### Comparison to Bayesian Linear Regression
 Below compares the resulting error and the optimized parameters of our models to those of the bayesian linear regression from earlier in the semester.
+
 <img src="https://github.com/bjmcshane/gaussian-processes/blob/main/images/gp_mse.png?raw=true" alt="drawing" width="350"/>
 <img src="https://github.com/bjmcshane/gaussian-processes/blob/main/images/blr_mse.png?raw=true" alt="drawing" width="350"/>
