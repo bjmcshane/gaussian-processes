@@ -29,3 +29,5 @@ Below compares the resulting error and the optimized parameters of our models to
 
 <img src="https://github.com/bjmcshane/gaussian-processes/blob/main/images/gp_mse.png?raw=true" alt="drawing" width="350"/>
 <img src="https://github.com/bjmcshane/gaussian-processes/blob/main/images/blr_mse.png?raw=true" alt="drawing" width="350"/>
+
+Final Grade: 100%
